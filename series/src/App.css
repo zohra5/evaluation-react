@@ -1,0 +1,13 @@
+* {
+  margin: 5;
+  padding: 5;
+  box-sizing: border-box;
+}
+
+main {
+  text-align: center;
+}
+
+h1.titre {
+  text-align: center;
+}

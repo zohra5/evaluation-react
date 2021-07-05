@@ -1,0 +1,17 @@
+.color {
+  color: white;
+}
+main {
+  text-align: center;
+}
+section {
+  background-color: rgba(54, 52, 52, 0.932);
+  border: black 1px dotted;
+}
+section h1 {
+  color: red;
+}
+
+section p {
+  font-size: large;
+}
